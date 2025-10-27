@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[Tuuuur gantt prévision.pdf](https://github.com/user-attachments/files/23172358/Tuuuur.gantt.prevision.pdf)
+
+<img width="8280" height="7820" alt="Schéma drawio" src="https://github.com/user-attachments/assets/ea7f66d5-2f71-46dd-b84a-5b21aa5ccdf6" />
+
 <!--
 
 **Here are some ideas to get you started:**
