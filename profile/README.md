@@ -129,4 +129,6 @@ Le projet met en pratique des notions clés du Master CCM :
 
 ## 📈 État d’avancement
 
-> _Dernière mise à jour : ...
+> Dernière mise à jour : ...
+
+---
