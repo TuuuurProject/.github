@@ -1,4 +1,4 @@
-# 🧠 Tuuuur – Application Web & Mobile de Quiz Interactif
+# 🧠 Tuuuur – Application Web & Mobile
 
 ## 🎯 Contexte & Objectif
 
@@ -123,15 +123,10 @@ Le projet met en pratique des notions clés du Master CCM :
 
 ## 🧩 Licence
 
-> À définir selon vos besoins (par exemple MIT, Apache 2.0, etc.)
+> ...
 
 ---
 
 ## 📈 État d’avancement
 
-> _Dernière mise à jour : à compléter selon vos jalons de projet._
-
----
-
-Souhaitez-tu que je te **génère directement le fichier `README.md`** à télécharger (en Markdown) ?  
-Je peux aussi **ajouter un modèle de diagramme d’architecture en Mermaid** si tu veux une base prête à copier-coller.
+> _Dernière mise à jour : ...
