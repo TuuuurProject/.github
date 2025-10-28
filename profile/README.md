@@ -1,16 +1,137 @@
-## Hi there 👋
+# 🧠 Tuuuur – Application Web & Mobile de Quiz Interactif
 
-[Tuuuur gantt prévision.pdf](https://github.com/user-attachments/files/23172358/Tuuuur.gantt.prevision.pdf)
+## 🎯 Contexte & Objectif
+
+Les applications de quiz sont populaires pour le divertissement et l’apprentissage, mais peu d’entre elles offrent à la fois un mode compétitif, une accessibilité multiplateforme et une expérience fluide en groupe.
+
+**Tuuuur** répond à ce besoin en proposant une application de quiz **Web et Mobile** alliant plaisir, compétition et apprentissage, avec une interface intuitive et un **classement dynamique**.
+
+### Objectif principal
+
+- Concevoir une application interactive et connectée proposant plusieurs modes de jeu (solo, multijoueur, compétitif).
+- Intégrer un **classement basé sur l’Elo**.
+- Développer une **infrastructure cloud scalable** (Terraform + GCP).
+- Préparer l’intégration d’un **moteur d’IA** pour la génération automatique de questions.
+- Mettre en avant les compétences techniques du master CCM à travers un projet complet.
+
+---
+
+## 👥 Équipe & Organisation
+
+| Membre | Rôle principal | Domaines |
+|--------|----------------|----------|
+| **Florent DUBUT** | Chef de projet / Scrum Master | Backend (C#, SQL Server), Cloud (GCP, Terraform), Architecture |
+| **Gaël GROSSET** | Développeuse Web | Frontend Web (Vue.js), UX/UI Design |
+| **Killian LEFRANCOIS** | Développeur Mobile | Application Mobile (Flutter) |
+
+### Méthodologie
+- **Méthode Agile** : points hebdomadaires, communication quotidienne sur Discord.
+- **Outils** :
+  - Gestion de code & suivi des tâches : GitHub
+  - Communication : Discord
+  - CI/CD : GitHub Actions
+  - Qualité : SonarQube
+- Chaque membre gère son repository, sa CI/CD et ses tests associés.
+
+---
+
+## ⚙️ Technologies Utilisées
+
+- **Frontend Web** : Vue.js  
+- **Mobile** : Flutter  
+- **Backend** : C# / .NET + SQL Server  
+- **Infrastructure** : Terraform + Google Cloud Platform (GCP)  
+- **CI/CD** : GitHub Actions  
+- **Qualité** : SonarQube  
+
+---
+
+## ✨ Fonctionnalités
+
+- 🔐 Authentification & gestion des comptes utilisateurs  
+- 👤 Création et personnalisation des profils  
+- 🧩 Mode **solo** (entraînement libre)  
+- 🧑‍🤝‍🧑 Mode **multijoueur** (salons, QR code de connexion)  
+- ⚔️ Mode **compétitif 1v1** avec calcul d’Elo  
+- 🏆 **Classement global** dynamique  
+- ❓ Gestion des **questions, thèmes et niveaux de difficulté**
+
+---
+
+## 🧱 Architecture de l’Application
+
+![Tuuuur gantt prevision (1)_page-0001-min](https://github.com/user-attachments/assets/aa3e79cf-62fd-4ca6-bbb5-17b40e70050e)
+
+
+---
+
+## 🗓️ Diagramme de Gantt
 
 <img width="8280" height="7820" alt="Schéma drawio" src="https://github.com/user-attachments/assets/ea7f66d5-2f71-46dd-b84a-5b21aa5ccdf6" />
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 🚀 Déploiement & Scalabilité
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+L’application est déployée sur **Google Cloud Platform (GCP)**.  
+L’architecture est **scalable et résiliente** grâce à :
+- Un **load balancer** répartissant le trafic entre serveurs
+- Une **API Gateway** pour centraliser les accès
+- Des **ressources ajustables automatiquement** selon la charge
+- Une **infrastructure reproductible** via **Terraform**
+
+---
+
+## 🧪 Processus Qualité
+
+- Revue de code obligatoire avant chaque merge
+- Intégration continue (tests automatiques à chaque commit)
+- Tests unitaires et fonctionnels
+- Suivi des bugs sur GitHub Issues
+- Documentation technique et fonctionnelle à jour
+
+---
+
+## 🧰 Tâches Complémentaires
+
+- Gestion du compte de facturation GCP – *[Florent DUBUT]*  
+- Mise en place de SonarQube – *[Florent DUBUT]*  
+
+---
+
+## 🔗 Liens Utiles
+
+- **Organisation GitHub** : [TuuuurProject](https://github.com/TuuuurProject/)
+- **Dépôts associés** :
+  - Backend (C#)
+  - Frontend Web (Vue.js)
+  - Mobile (Flutter)
+  - Infrastructure (Terraform)
+
+---
+
+## 📚 Liens avec la formation CCM
+
+Le projet met en pratique des notions clés du Master CCM :
+- Architecture logicielle et cloud computing  
+- Gestion de projet agile  
+- DevOps et CI/CD  
+- Développement Web, Mobile et Backend  
+- Collaboration et communication d’équipe  
+
+---
+
+## 🧩 Licence
+
+> À définir selon vos besoins (par exemple MIT, Apache 2.0, etc.)
+
+---
+
+## 📈 État d’avancement
+
+> _Dernière mise à jour : à compléter selon vos jalons de projet._
+
+---
+
+Souhaitez-tu que je te **génère directement le fichier `README.md`** à télécharger (en Markdown) ?  
+Je peux aussi **ajouter un modèle de diagramme d’architecture en Mermaid** si tu veux une base prête à copier-coller.
