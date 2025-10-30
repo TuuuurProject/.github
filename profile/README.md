@@ -60,14 +60,13 @@ Les applications de quiz sont populaires pour le divertissement et l’apprentis
 
 ## 🧱 Architecture de l’Application
 
-![Tuuuur gantt prevision (1)_page-0001-min](https://github.com/user-attachments/assets/aa3e79cf-62fd-4ca6-bbb5-17b40e70050e)
-
+<img width="8280" height="7820" alt="Schéma drawio" src="https://github.com/user-attachments/assets/ea7f66d5-2f71-46dd-b84a-5b21aa5ccdf6" />
 
 ---
 
 ## 🗓️ Diagramme de Gantt
 
-<img width="8280" height="7820" alt="Schéma drawio" src="https://github.com/user-attachments/assets/ea7f66d5-2f71-46dd-b84a-5b21aa5ccdf6" />
+![Tuuuur gantt prevision (1)_page-0001-min](https://github.com/user-attachments/assets/aa3e79cf-62fd-4ca6-bbb5-17b40e70050e)
 
 ---
 
