@@ -20,7 +20,7 @@ Les applications de quiz sont populaires pour le divertissement et l’apprentis
 
 | Membre | Rôle principal | Domaines |
 |--------|----------------|----------|
-| **Florent DUBUT** | Chef de projet / Scrum Master | Backend (C#, SQL Server), Cloud (GCP, Terraform), Architecture |
+| **Florent DUBUT** | Chef de projet / Scrum Master / Développeur API | Backend (C#, SQL Server), Cloud (GCP, Terraform), Architecture |
 | **Gaël GROSSET** | Développeur Web | Frontend Web (Vue.js), UX/UI Design, Cloud (GCP, Terraform), Architecture |
 | **Killian LEFRANCOIS** | Développeur Mobile | Application Mobile (Flutter), Cloud (GCP, Terraform), Architecture |
 
