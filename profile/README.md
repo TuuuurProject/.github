@@ -60,7 +60,7 @@ Les applications de quiz sont populaires pour le divertissement et l’apprentis
 
 ## 🧱 Architecture de l’Application
 
-<img width="8280" height="7820" alt="Schéma drawio" src="https://github.com/user-attachments/assets/ea7f66d5-2f71-46dd-b84a-5b21aa5ccdf6" />
+<img width="8280" height="7820" alt="Schéma drawio" src="https://github.com/user-attachments/assets/9d93cebd-92b9-42c3-adde-889fd02f2158" />
 
 ---
 
